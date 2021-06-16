@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\SourceDestinationComparer\\SourceDestinationComparer\\SourceDestinationComparer.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\SourceDestinationComparer\\SourceDestinationComparer\\SourceDestinationComparer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\SourceDestinationComparer\\SourceDestinationComparer\\SourceDestinationComparer.csproj",
+        "projectName": "SourceDestinationComparer",
+        "projectPath": "C:\\Dev\\SourceDestinationComparer\\SourceDestinationComparer\\SourceDestinationComparer.csproj",
+        "packagesPath": "C:\\Users\\PTV\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\SourceDestinationComparer\\SourceDestinationComparer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PTV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://spectra-systems.pkgs.visualstudio.com/SpectraAPI/_packaging/SpectraAPI-usednugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
